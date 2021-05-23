@@ -1,5 +1,3 @@
-# NeuralNetworkSnake
-
 # Neural Network Snake
 # Current Version 1.0
 ## Licensed under MIT license - Please feel free to modify/edit/change
